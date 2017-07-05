@@ -1,0 +1,4 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+    É criado um diretório oculto chamdo .git, onde fica amazenado os metadados utilizados pelo git
+    para controlar o repositório local. 
